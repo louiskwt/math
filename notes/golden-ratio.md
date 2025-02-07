@@ -4,4 +4,4 @@ In Mathematics, when two quantities like a and b (where both a and b are greater
 
 ## Representation in mathematical notion
 
-$$\dfrac{a}{b}$ = \dfrac{a + b}{a}$ = \phi
+$`\dfrac{a}{b}$ = \dfrac{a + b}{a}$ = \phi`$
