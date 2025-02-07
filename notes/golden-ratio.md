@@ -15,3 +15,29 @@ $`\dfrac{a}{b} = \dfrac{a + b}{a} = \phi`$
 3. $`\dfrac{a}{a} + \dfrac{b}{a} = \phi`$
 
    $`1 + \dfrac{1}{\phi} = \phi`$
+
+## Deriving the value of golden ratio
+
+1. Take equation 3 from above.
+
+2. Rearragne the whole equation into this
+
+$`\phi - 1 = \dfrac{1}{\phi}`$
+
+3. Multiply both side with $`\phi`$
+
+$`\phi^2 - \phi = 1`$
+
+4. Subtract 1 from both side
+
+$`\phi^2 - \phi - 1 = 0`$
+
+5. Solve the for $`\phi`$ using quadratic equation
+
+$`\phi = \dfrac{-(-1)\pm\sqrt{(-1)^2 - 4(1)(-1)}}{2(1)}`$
+
+$`\phi = \dfrac{1\pm\sqrt{1 + 4}}{2(1)}`$
+
+$`\phi = \dfrac{1\pm\sqrt{5}}{2(1)}`$
+
+6. Since both a and b has to be greater than zero, so the value of golden ratio will be $`\dfrac{1+\sqrt(5)}{2}`$
