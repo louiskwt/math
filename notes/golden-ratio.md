@@ -13,5 +13,5 @@ $`\dfrac{a}{b} = \dfrac{a + b}{a} = \phi`$
 2. $`\dfrac{a + b}{a} = \phi`$
 
 3. $`\dfrac{a}{a} + \dfrac{b}{a} = \phi`$
-   $`1 + \drfac{1}{\dfrac{a}{b}} = \phi`$
+
    $`1 + \dfrac{1}{\phi} = \phi`$
