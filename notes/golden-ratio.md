@@ -42,4 +42,4 @@ $`\dfrac{a}{b} = \dfrac{a + b}{a} = \phi`$
 
 6. Since both a and b has to be greater than zero, so the value of golden ratio will be:
 
-   $`\dfrac{1+\sqrt(5)}{2}`$
+   $`\dfrac{1+\sqrt(5)}{2}`$ or $`\approx 1.61803399`$
