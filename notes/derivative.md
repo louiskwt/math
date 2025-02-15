@@ -18,4 +18,4 @@ $`f'(x) = \frac{dy}{dx}`$
 
 - $`\frac{d}{dx}(e^x) = e^x`$
 
--$`\frac{d}{dx}(lnx) = \dfrac{1}{x}`$
+- $`\frac{d}{dx}(lnx) = \dfrac{1}{x}`$
