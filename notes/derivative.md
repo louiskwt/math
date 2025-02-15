@@ -16,6 +16,8 @@ $`f'(x) = \frac{dy}{dx}`$
 
 - $`\frac{d}{dx}(cosx) = -sinx`$
 
+- $`\frac{d}{dx}(tanx) = \frac{1}{cos^2x}`$
+
 - $`\frac{d}{dx}(e^x) = e^x`$
 
 - $`\frac{d}{dx}(lnx) = \dfrac{1}{x}`$
