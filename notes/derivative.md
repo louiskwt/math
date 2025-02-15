@@ -1,6 +1,6 @@
 # Derivative
 
-$`\f'(x) = lim_{x \to 0} \dfrac{f(x - h) + f(x)}{h}`$
+$` f'(x) = lim_{x \to 0} \dfrac{f(x - h) + f(x)}{h}`$
 
 $`f'(x) = \frac{dy}{dx}`$
 
