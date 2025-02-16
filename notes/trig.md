@@ -9,3 +9,7 @@
 $` tan\theta = \frac{sin\theta}{cos\theta}`$
 
 $` sin^2\theta + cos^2\theta = 1 `$
+
+$` sin(\alpha + \beta) = sin\alpha cos\beta + cos\alpha sin\beta`$
+
+$` sin(\alpha - \beta) = sin\alpha cos\beta - cos\alpha sin\beta`$
